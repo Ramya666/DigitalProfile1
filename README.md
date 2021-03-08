@@ -40,10 +40,10 @@ Certifications
 
 Personal Information
 ----------------------------------------
-Father Name    :  K.Nageswara Rao
-DOB            :  17-09-1999
-Gender         :  Female
-Address        :  #12-3-14, 
+- Father Name    :  K.Nageswara Rao
+- DOB            :  17-09-1999
+- Gender         :  Female
+- Address        :  #12-3-14, 
                   Ganesh street, 
                   Kothapet 1st Line 
                   Guntur-522001.
