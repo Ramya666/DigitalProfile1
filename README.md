@@ -2,9 +2,9 @@ Kathula Ramyasri
 ============
 
 -------------------     ----------------------------
-Email                     kathularamya713@gmail.com
-Phone                     7730936607
-MyCountry                 India       
+- Email                     kathularamya713@gmail.com
+- Phone                     7730936607
+- MyCountry                 India       
 -------------------     ----------------------------
 
 Education
